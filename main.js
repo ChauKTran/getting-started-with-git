@@ -7,3 +7,4 @@ let plants = [
 
 const result = plants.find((plant) => plant.id == 2);
 console.log(result);
+console.log("Nien is handsome");
